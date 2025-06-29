@@ -4,4 +4,3 @@ mx: mx1.wiredblade.com
 mx: acadia-mx.dynu.com
 mx: bryce-mx.dynu.com
 max_age: 86400
-# Rebuild Trigger
